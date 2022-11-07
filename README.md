@@ -17,7 +17,7 @@ Divisors: assign 'calculate_divisors=True' to verify divisors.
 ```
 To calculate number divisors as well add `calculate_divisors=True`. If the number is bigger than ${10}^{15}$, a message will be shown warning that the result might take a while to be calculated.
 ```
-NumberDNA(48 ** 25, calculate_divisors=True)
+NumberDNA(24 ** 4, calculate_divisors=True)
 ```
 Result:
 ```
